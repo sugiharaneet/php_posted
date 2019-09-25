@@ -73,7 +73,7 @@ if (!empty($_POST['pass'])) {
 <html lang="ja">
    <head>
        <meta charset="utf8">
-       <title>課題19</title>
+       <title>掲示板</title>
    </head>
    <body>
        <h1>パスワード再設定</h1>

@@ -19,7 +19,7 @@ if (isset($_SESSION['id'])) {
 <html lang="ja">
    <head>
        <meta charset='utf-8'>
-       <title>課題18</title>
+       <title>掲示板</title>
    </head>
    <body>
        <h1>掲示板</h1>
